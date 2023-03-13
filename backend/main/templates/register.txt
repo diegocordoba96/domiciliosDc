@@ -1,0 +1,3 @@
+Bienvenido {{ cliente.nombre }} !
+
+Gracias por registrarse en Domicilios DC 

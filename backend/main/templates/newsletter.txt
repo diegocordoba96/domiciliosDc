@@ -1,0 +1,8 @@
+Hola {{cliente.nombre}}!
+
+
+Te presentamos los restaurates disponibles en tu ciudad
+
+{% for restaurante in restaurantes %}
+    {{restaurante}}
+{% endfor %}
